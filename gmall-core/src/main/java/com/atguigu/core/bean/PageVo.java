@@ -70,7 +70,4 @@ public class PageVo implements Serializable {
 		this.currPage = (int)page.getCurrent();
 		this.totalPage = (int)page.getPages();
 	}
-
-
-	
 }

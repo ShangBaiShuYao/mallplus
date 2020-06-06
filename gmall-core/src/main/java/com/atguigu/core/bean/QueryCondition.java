@@ -9,7 +9,6 @@ import lombok.Data;
 @Data
 public class QueryCondition {
 
-
     @ApiModelProperty(name = "page",value = "页码",required = false)
     private Long page;
 

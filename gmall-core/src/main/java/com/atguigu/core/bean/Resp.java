@@ -53,6 +53,4 @@ public class Resp<T> {
         this.setCode(code);
         return this;
     }
-
-
 }

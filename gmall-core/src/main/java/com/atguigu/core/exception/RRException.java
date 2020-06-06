@@ -1,10 +1,3 @@
-/**
- * Copyright (c) 2016-2019 谷粒开源 All rights reserved.
- *
- * https://www.guli.cloud
- *
- * 版权所有，侵权必究！
- */
 
 package com.atguigu.core.exception;
 
@@ -14,8 +7,8 @@ package com.atguigu.core.exception;
  * @author Mark sunlightcs@gmail.com
  */
 public class RRException extends RuntimeException {
+
 	private static final long serialVersionUID = 1L;
-	
     private String msg;
     private int code = 500;
     
