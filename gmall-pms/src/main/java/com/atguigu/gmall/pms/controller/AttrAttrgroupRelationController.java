@@ -16,9 +16,6 @@ import org.springframework.web.bind.annotation.*;
 import com.atguigu.gmall.pms.entity.AttrAttrgroupRelationEntity;
 import com.atguigu.gmall.pms.service.AttrAttrgroupRelationService;
 
-
-
-
 /**
  * 属性&属性分组关联
  *
