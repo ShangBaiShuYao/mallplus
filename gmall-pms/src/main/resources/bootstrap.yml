@@ -4,5 +4,7 @@ spring:
   cloud:
     nacos:
       config:
-        server-addr: 127.0.0.1:88482
-        namespace: 461a7dc5-b8ec-4356-bee5-ffda81ff69ed
+        server-addr: 127.0.0.1:8848
+#        namespace: 461a7dc5-b8ec-4356-bee5-ffda81ff69ed
+#  main:
+#    allow-bean-definition-overriding: true
